@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DDE35FF510684A0BF4EC5D5CC322CBB51D7058CF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E7F8DB278AEF30CFE3CAE09D4F2A72D603F1A335" : 0,
+    "DDE35FF510684A0BF4EC5D5CC322CBB51D7058CF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B8E328EB-0346-4454-8062-D66E9E3364CA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E7F8DB278AEF30CFE3CAE09D4F2A72D603F1A335" : "LNBQFDemo\/LNBQFDemo\/LNBQFDemo\/",
+    "DDE35FF510684A0BF4EC5D5CC322CBB51D7058CF" : "LNBQFDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LNBQFDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LNBQFDemo\/LNBQFDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/binjiayou66\/LNBQFDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DDE35FF510684A0BF4EC5D5CC322CBB51D7058CF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/binjiayou66\/LNBQFDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E7F8DB278AEF30CFE3CAE09D4F2A72D603F1A335"
+    }
+  ]
+}
